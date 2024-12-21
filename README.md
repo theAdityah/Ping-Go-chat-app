@@ -1,6 +1,6 @@
 # Ping... Chat Application
 
-![](kayee.png)
+![](Ping.png)
 
 ## Setup
 
